@@ -4,7 +4,7 @@ import InputField from "../InputField/InputField";
 
 export default function MainContainer() {
   return (
-    <div className="right-section rounded-lg md:rounded-l-none md:rounded-r-lg relative -top-16 md:top-0 flex flex-col mx-auto w-[80%] md:w-full bg-primarywhite text-white p-6	md:px-16  lg:px-28 lg:pt-8 lg:pb-4">
+    <div className="right-section rounded-lg md:rounded-l-none md:rounded-r-lg relative -top-16 md:top-0 flex flex-col mx-auto w-[90%] sm:w-[80%] md:w-full bg-primarywhite text-white p-6	md:px-16  lg:px-28 lg:pt-8 lg:pb-4">
       <Heading
         headingText="Personal info"
         headingDesciption="Please provide your name, email address, and phone number."

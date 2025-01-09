@@ -8,8 +8,8 @@ export default function DashBoard() {
     >
       <div
         className={`rounded-lg flex flex-col md:flex-row justify-center 
-        p-0 md:p-2 md:h-650 w-full md:min-w-3/5 md:w-auto
-        bg-primarywhitef`}
+        p-0 md:p-3.5 md:h-650 w-full md:min-w-3/5 md:w-auto
+        bg-primarylightblue md:bg-primarywhite`}
       >
         <StepContainer />
         <MainContainer />

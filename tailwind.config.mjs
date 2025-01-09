@@ -23,7 +23,7 @@ export default {
         primarywhite: "var(--primary-white)",
       },
       height: {
-        650: "584px",
+        650: "596px",
       },
     },
   },
