@@ -1,0 +1,4 @@
+.activeStep {
+  background-color: var(--primary-light-blue);
+  color: var(--primary-marine-blue);
+}

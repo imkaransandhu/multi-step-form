@@ -1,0 +1,8 @@
+.fontUbuntu {
+  font-family: var(--font-ubuntu);
+}
+
+.imageHeightWidth {
+  height: 568px;
+  width: 274px;
+}

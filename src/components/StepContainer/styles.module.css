@@ -1,0 +1,16 @@
+.fontUbuntu {
+  font-family: var(--font-ubuntu);
+}
+
+.imageHeightWidth {
+  height: 172;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  /* Your styles for screens 768px and above */
+  .imageHeightWidth {
+    height: 568px;
+    width: 274px;
+  }
+}
